@@ -1,4 +1,4 @@
-# UnrealEngine_BIM
+# Crear clase C++ para guardar datos
 **Descripción:** Creación de una clase en C++ que guarde datos en un archivo, y que presente la función en forma de blueprint.
 ## Antes de comenzar
 **Se recomienda realizar una copia del proyecto, ya que en caso de que haya algún error al compilar no se perderá toda la información. Se debe de tener instalado Visual Studio (VS17 para UE 4.21-4.26).**
