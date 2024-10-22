@@ -33,7 +33,9 @@ b) Si aparece un mensaje de error, el proyecto debe ser compilado manualmente pa
 
 6.Modificar el header `TextManager.h`, cambiar el nombre del proyecto en mayúsculas en la línea 14.
 7. Guardar ambos archivos (.cpp y .h) y compilar el proyecto. Abrir el archivo `.sln`, dar clic derecho en el proyecto y compilar. Unreal Engine debe estar cerrado.
+
 ![Image](https://github.com/user-attachments/assets/ba860cc0-6ad6-48f9-8598-6f46ed0f290d)
+
 8. Si todo está correcto, al abrir el proyecto en Unreal Engine, en el content browser debe aparecer una nueva carpeta llamada `C++ classes` y dentro de UE podemos agregar el bloque de Save Array Text.
 ![Image](https://github.com/user-attachments/assets/3517e960-753f-471a-8036-1101a4e22b02)
 ![Image](https://github.com/user-attachments/assets/97f74c0e-2de6-43a7-8243-ebcf465db12a)
